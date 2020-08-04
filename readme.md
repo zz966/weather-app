@@ -1,7 +1,7 @@
 **Weather app**  
 This is a weather forcast application.
 
-This project inteact with **mapbox api** and **darksky api**.  input location to get the weather's information of the location.     
+This project interacting with **mapbox api** and **darksky api**. Input location to get the weather's information of the location.     
 
 But this project is **deprecated** as **dark sky api service is going to shut down.**  
 ![image](screenshot/Dark_Sky.png)
